@@ -43,3 +43,5 @@ nano install_apache.yml
 ansible-playbook -i host.ini install_apache.yml
 
 curl http://172.25.180.222
+
+https://chatgpt.com/share/68407e15-0a94-8010-9fc8-4374befac27a
